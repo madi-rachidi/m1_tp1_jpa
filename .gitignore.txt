@@ -1,5 +1,6 @@
 
 # Created by https://www.gitignore.io/api/netbeans
+2018_INF2-TP1_JPA.pdf
 
 ### NetBeans ###
 nbproject/private/
